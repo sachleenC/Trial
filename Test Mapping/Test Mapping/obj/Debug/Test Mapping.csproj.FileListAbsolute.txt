@@ -1,0 +1,10 @@
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\bin\Debug\Test Mapping.exe.config
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\bin\Debug\Test Mapping.exe
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\bin\Debug\Test Mapping.pdb
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\obj\Debug\Test Mapping.csprojAssemblyReference.cache
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\obj\Debug\Test_Mapping.Form1.resources
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\obj\Debug\Test_Mapping.Properties.Resources.resources
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\obj\Debug\Test Mapping.csproj.GenerateResource.cache
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\obj\Debug\Test Mapping.csproj.CoreCompileInputs.cache
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\obj\Debug\Test Mapping.exe
+C:\Users\sachl\OneDrive\Documents\Code\C#\Test Mapping\Test Mapping\obj\Debug\Test Mapping.pdb
